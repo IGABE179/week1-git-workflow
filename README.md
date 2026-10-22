@@ -11,4 +11,3 @@ Clone the repository and open `index.html` in a browser.
 - Opened a Pull Request for each branch with `Closes #N` so the issue closed automatically on merge.
 - Created an intentional merge conflict between `feature-header-a` and `feature-header-b` on the page title and resolved it locally with `git merge main`.
 
-*Catch-up submission, completed with AI assistance.*
